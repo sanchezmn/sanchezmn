@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working in the Cloud and DevOps area. <br>Systems Engineering Student<br>DevOps student. First steps!<br>Enthusiastic and Motivated. 
+I am currently working in the Cloud and DevOps area. <br>Systems Engineering Student<br>DevOps - DevSecOps. First steps!<br>Enthusiastic and Motivated. 
 
 
 ## 🌐 Socials:
